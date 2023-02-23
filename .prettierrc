@@ -1,0 +1,13 @@
+{
+	"arrowParens": "avoid",
+	"semi": false,
+	"useTabs": true,
+	"tabWidth": 4,
+	"singleQuote": false,
+	"trailingComma": "all",
+	"importOrder": ["^@app/(.*)$", "^@teawithsand/(.*)$", "^[./]"],
+	"importOrderSeparation": true,
+	"importOrderSortSpecifiers": true,
+	"importOrderCaseInsensitive": true,
+	"importOrderGroupNamespaceSpecifiers": true
+}

@@ -1,0 +1,16 @@
+/old
+/public
+/build
+node_modules
+gatsby-types.d.ts
+/content
+/.cache
+
+.devcontainer
+.vscode
+
+__pycache__
+yarn-error.log
+/hidden-notes.txt
+
+TODO
